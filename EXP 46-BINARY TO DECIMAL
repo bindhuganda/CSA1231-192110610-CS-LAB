@@ -23,5 +23,7 @@ void main()
 
 
 OUPUT:
-Enter any decimal number: 6
-Equivalent hexadecimal value of decimal number 6: 6
+ Enter a binary number with the combination of 0s and 1s
+1011
+ The binary number is 1011
+ The decimal number is 11
